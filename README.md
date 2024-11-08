@@ -20,7 +20,7 @@ Komentar dapat di edit dan di hapus.
 Like dapat di tarik kembali.
 
 ### Searching Postingan
-Di halaman utama, terdapat fungsi searching, pengguna biasa dapat melakukan pencarian postingan dari dari admin berdasarkan kategori dari postingan tersebut.
+Di halaman utama, terdapat fungsi searching, pengguna biasa dapat melakukan pencarian postingan dari dari admin berdasarkan kategori atau judul dari postingan tersebut.
 
 ### Login Admin
 Klik hamburger menu, terdapat link login writer, akan masuk ke halaman login admin.
